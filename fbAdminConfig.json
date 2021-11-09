@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "flaskfirebaseauth-b0776",
+    "private_key_id": "ad11827e910d105bc4946e35d6dd6c5964ed49d8",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCVFJPxk7zuGTGv\nt6dFRBf0ahsF89gwhfBlgy+TYfQJnwdOyOu3QYfez0MxtBpE0XaIJ0m7sImocUMh\nh8y2RikWSvftAyLkS37090+f901v6FG/aU1XWx25OPRGCgR5lJR27fyXXoR9GI4K\nxfCGHzJQI3fioENhaS4pfb5KcG+/eqA4Bm76MLIIX6rlOG7/bQxzthgcd2gX9bk8\nBjJ/Oul9m0Jq0vyiiNjekwXf+RMSKuhK7dMpew4TCx8zN1QqS/SIpVJLIj8WPlI+\nqjC8AlDDYViXO8GquRHNU739DJJgBFH4lbWWOu5gTFAP/7sN1HqF2OicbTzjvkCw\nnCX11OpJAgMBAAECggEADRqxtXi70P8Ycb52Pt2xMFwaU3/fd0Zyvu2U40LnOWhH\n82owZBunxpNX7/jJnVZ/MZEoh03Jj+uiz8H44eXRa0L8P5J4wPIM7xoFHwXVQfq9\nItLuCDl7Z6JkwHpVcd14XmrleuXFRhzAMZy8G4IHAWnYuixFt/yPoPiLX046WG2b\n42VFc/9WestFDGrxXah4y4gKUNUaJBZWhd8/qjcQW7sg4G93bkRU/weSwB3D5v7T\nCB0DeYIZSQUAa+znMN+Wc43BfNlD/YM6sp7z96GyVRBA27nnzIKJjz0nyE2Bu9z+\nb73pLUYPZ65HMAwp4dtOtT9wMLxaUjPXCoAWzctHAQKBgQDLrk5F0MvvyS6wnfLH\nop17wZI1Py1SIVpEeq7hXzghBFpLmXIB7FI4meCLF9DLg8in2PustE/P/QlS/09D\n+OUzRgd6KmaNpoVGXXtPxR7Lvedsr8VbKPEbSWa33xNahBSrl3r9UOHThoS3OSaP\nMxkQb5rnQwG09heEd1nqVAZKgQKBgQC7X9cHuISABwKAdrXy4a2xpaB85Pselkxq\nwiEABq6JBjxqXd4Ugld/u/qDarDnxKfRupy5XvUaay7k+C14pRXF9A0J/pfQ6Kn7\nxCLBE27s38Qo5amA9nv7Gjrm1YlorkbCMtQLMkMiFV/4z/HZV5Ad/ozGicGbKvVY\n90XL9oDryQKBgEM5LkBAn25umehU2RImi4+S3ayRQ2X9+Art6tYbVS0ggKS+6i/U\nTXa84q1FmPXycsFjDf18LXNZ8j/gX8rxVMRNcp5RbDOIKCiHJfG3/2gDL2RhxuNF\naf41hZ9eEscnHKNdhYwhq8bieN74D8/nb3hLPXbiWKffKPfhZF3AiasBAoGAFk21\nMdUT6I1tDc+TnuKgI0o8zUEQZzaqx/ZtqSwicGsOm/aqbbSKJ8k/a48ymZP+Cef1\nqdcUw91ISrcD6p1z9wky2CK2/YYEXdSd8m+Wv5lvJxMXVyN/5IbdxgZbAdvkzk7w\nkJieBxuWPe66sg1LOVbIeQWCxy6Y38snQr0H4YkCgYAvVnqV7alRfQqq2yqJ/uda\nWdlhBsOzsPyIgoEXLf4zyiZmaC5pROsntvpbBN960gqhrg53L0mwx1HL7XS7cRzM\nUOQICi7Fyqmosg+Ft/3/ln/T0CuX8hrHwUswn0TErjhbkoYndmjRacfqbic2zT3B\nZ+gq2bsmUol109fvg1CerQ==\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-jvzhb@flaskfirebaseauth-b0776.iam.gserviceaccount.com",
+    "client_id": "101894158351446766644",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-jvzhb%40flaskfirebaseauth-b0776.iam.gserviceaccount.com"
+  }
+  
